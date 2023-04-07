@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.table-rounded {
+    border-radius: 5px !important;
+}
